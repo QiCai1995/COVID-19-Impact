@@ -1,2 +1,2 @@
-# COVID-19-Impact---SQL
+# COVID-19-Impact-SQL
 SQL Practice
