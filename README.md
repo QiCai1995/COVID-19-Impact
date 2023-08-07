@@ -1,2 +1,2 @@
-# COVID-19-Impact-SQL
-SQL Practice
+# COVID-19-Impact
+Data Cleaning and Analysis Practice
